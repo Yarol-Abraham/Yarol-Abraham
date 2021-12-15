@@ -5,9 +5,6 @@
 - React <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="Physics free icon" title="Physics free icon" class="loaded">
 - Nodejs <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Nodejs free icon" title="Nodejs free icon" class="loaded">
 - Nextjs <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="25">
-- Pug <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/2527/2527154.png" alt="Dog free icon" title="Dog free icon" class="loaded">
-- Sass <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Sass free icon" title="Sass free icon" class="loaded">
-- Parcel <img width="25" height="25" src="https://cdn-icons.flaticon.com/png/512/2420/premium/2420464.png?token=exp=1639608109~hmac=a01e2b2beda5ffc041d50d6c9f918fee" alt="Box free icon" title="Box free icon" class="loaded">
 ### Otros lenguajes
 - Php <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="Php free icon" title="Php free icon" class="loaded">
 - C# <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C sharp free icon" title="C sharp free icon" class="loaded">
