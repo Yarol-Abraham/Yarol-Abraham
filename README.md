@@ -1,6 +1,6 @@
 ## Bienvenido a mi github 👋
 👋🏻 Hola soy Yarol Abraham </br>
-🧐 He realizado proyectos interesantes que te pueden llamar la atención, la idea de crearlos es siempre aprender y mejorar, puedes ver como realizo mis proyecto y aplico mis conocimientos adquiridos, por supuesto yo también estoy aprendiendo todos los días para mejorar mis habilidades, sientete libre de ver mis proyectos o incluso si quieres clonarlos o descargarlos no hay ningún problema 🙂 tanto proyectos que he realizado personalmente como los que he realizado en cursos de plataforma como udemy.
+🧐 la idea de crearlos es siempre aprender y mejorar, puedes ver como realizo mis proyecto y aplico mis conocimientos adquiridos, por supuesto yo también estoy aprendiendo todos los días para mejorar mis habilidades, sientete libre de ver mis proyectos o incluso si quieres clonarlos o descargarlos no hay ningún problema 🙂 tanto los proyectos que he realizado personalmente como los que he realizado en cursos de plataformas como udemy.
 ### Javascript - librerías y frameworks
 - React <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="Physics free icon" title="Physics free icon" class="loaded">
 - Nodejs <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Nodejs free icon" title="Nodejs free icon" class="loaded">
