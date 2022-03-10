@@ -1,5 +1,6 @@
 ## Bienvenido a mi github 👋
 👋🏻 Hola soy Yarol Abraham </br>
+<!--
 🧐 la idea de crear los proyectos es siempre aprender y mejorar, puedes ver como realizo mis proyecto y aplico mis conocimientos adquiridos, por supuesto yo también estoy aprendiendo todos los días para mejorar mis habilidades, sientete libre de ver mis proyectos o incluso si quieres clonarlos o descargarlos no hay ningún problema 🙂 tanto los proyectos que he realizado personalmente como los que he realizado en cursos de plataformas como udemy.
 ### Javascript - librerías y frameworks
 - React <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="Physics free icon" title="Physics free icon" class="loaded">
@@ -12,7 +13,7 @@
 - MySQL <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Mysql free icon" title="Mysql free icon" class="loaded">
 - SQL Server <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="Sql server free icon" title="Sql server free icon" class="loaded">
 - Mongodb <img width="25" height="25" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" class="css-13avezx" alt="MongoDB logo">
-<!--
+
 **Yarol-Abraham/Yarol-Abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
